@@ -1,6 +1,6 @@
 ---
-layout: blog
-title: Blog
-description: Postagens
-permalink: /blog
+layout: default
+title: Home
 ---
+
+Testando como se coloca um texto de apresentação na capa do meu site.
