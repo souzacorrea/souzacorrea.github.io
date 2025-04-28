@@ -4,21 +4,8 @@ title: Hello
 ---
 
 
-## An easy to use, minimal, text focused Jekyll theme
+## Mais uma tentativa de escrever um blog
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit lectus nunc, vitae imperdiet mauris tempor vel. Duis pellentesque gravida risus, ac facilisis felis dapibus eu. Donec vel nulla vitae libero efficitur consectetur. Cras eu diam in nisl vestibulum laoreet. Mauris dapibus odio orci, vitae maximus ligula varius sit amet. Quisque viverra mollis erat vitae luctus. Proin dictum, dolor at condimentum hendrerit, metus nisi ornare justo, sed varius lorem mauris eget nulla. Nunc sapien massa, blandit a feugiat ullamcorper, dictum non arcu. Suspendisse potenti.
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
-
-**Stop worrying about the style, focus on your writing.**
-
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
-
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+Duis elit sapien, gravida at augue quis, tincidunt ullamcorper arcu. Proin maximus felis ac ex ullamcorper, eu faucibus nunc tristique. In vel urna tellus. Suspendisse placerat venenatis dui. Aliquam nec egestas urna. Maecenas lobortis sem est, in venenatis lectus condimentum dictum. Sed mattis ultricies nisi, ut feugiat eros semper vitae. In gravida nec sem et sollicitudin. Fusce auctor condimentum massa, sit amet aliquet enim euismod eget. Nunc enim nisl, ornare ac velit a, elementum venenatis erat. Aenean blandit pharetra ipsum eget semper. Pellentesque mi dolor, auctor sit amet varius sed, rutrum in neque. Nam convallis justo nec egestas efficitur. Fusce rhoncus id leo non tincidunt. In feugiat blandit erat, ac accumsan felis tempor sed. Aenean laoreet.
