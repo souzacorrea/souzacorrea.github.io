@@ -1,13 +1,13 @@
 
       
       
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
 :root {
     --width: 800px;
-    --font-main: "Open Sans", sans-serif;
-    --font-secondary: "Open Sans", sans-serif;
-    --font-scale: 1.2em;
+    --font-main: "EB Garamond", serif;
+    --font-secondary: "EB Garamond", serif;
+    --font-scale: 1.4em;
     --background-color: #f7f7f7;
     --heading-color: #242424; 
     --text-color: #242424; /* Darker espresso */
@@ -65,9 +65,7 @@ a {
 }
 
 a:hover {
-    background-color: var(--main-color);
-    color: white;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 header {
