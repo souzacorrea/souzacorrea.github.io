@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-27-mais-uma-tentativa.md",
+                "file": "2025-04-27-continuo-escrevendo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-27-mais-uma-tentativa"
+              "title": "2025-04-27-continuo-escrevendo"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:testedetag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-04-27-mais-uma-tentativa.md",
+                "file": "2025-04-27-continuo-escrevendo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-04-27-mais-uma-tentativa"
+              "title": "Backlinks for 2025-04-27-continuo-escrevendo"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-04-27-mais-uma-tentativa.md",
+                "file": "2025-04-27-continuo-escrevendo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-04-27-mais-uma-tentativa"
+              "title": "Outgoing links from 2025-04-27-continuo-escrevendo"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-04-27-mais-uma-tentativa.md",
+                "file": "2025-04-27-continuo-escrevendo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-27-mais-uma-tentativa"
+              "title": "Outline of 2025-04-27-continuo-escrevendo"
             }
           }
         ]
@@ -168,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd3797e3d051cd9e",
+  "active": "b82c4c984e401f95",
   "lastOpenFiles": [
-    "2022-05-20-from-forestry-cms.md",
-    "2025-04-27-mais-uma-tentativa.md"
+    "2025-04-27-mais-uma-tentativa.md",
+    "2025-04-27-continuo-escrevendo.md",
+    "2022-05-20-from-forestry-cms.md"
   ]
 }
