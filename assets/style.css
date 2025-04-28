@@ -62,7 +62,6 @@ a {
     font-family: var(--font-main);
     cursor: pointer;
     text-decoration: none;
-    border-bottom: 3px solid var(--main-color);
 }
 
 a:hover {
@@ -193,11 +192,6 @@ th,
 td {
     padding: 6px 13px;
     font-size: 1em;
-}
-
-/* external link marker */
-a[href^="http"]:where(:not([href*="knhash.in/"])):not(:has(img))::after {
-    content: "↗"
 }
 
 /* Form elements */
