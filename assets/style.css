@@ -117,10 +117,10 @@ code {
 }
 
 blockquote {
-    border-left: 1px solid #999;
     color: var(--code-color);
-    padding-left: 20px;
-    font-style: italic;
+    padding-left: 5 px;
+    padding-right: 5px;
+    font-size: 0.95em;
 }
 
 header {
