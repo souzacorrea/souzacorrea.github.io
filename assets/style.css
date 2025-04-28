@@ -72,7 +72,7 @@ a:hover {
 header {
     margin-bottom: 40px;
     padding-bottom: 20px;
-    border-bottom: 3px dotted #232333;
+    border-bottom: 3px solid #232333;
 }
 
 nav a {
@@ -126,7 +126,7 @@ header {
 
 footer {
     margin-top: 40px;
-    border-top: 3px dotted var(--main-color);
+    border-top: 3px solid var(--main-color);
     padding: 25px 0;
     text-align: center;
 }
