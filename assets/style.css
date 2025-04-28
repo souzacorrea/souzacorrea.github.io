@@ -122,7 +122,7 @@ blockquote {
 }
 
 header {
-  border-bottom: 3px dotted var(--main-color);
+    border-bottom: 1px solid var(--main-color);
 }
 
 footer {
