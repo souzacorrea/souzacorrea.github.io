@@ -45,6 +45,7 @@ body {
     overflow-wrap: break-word;
     line-height: normal;
     color: var(--text-color);
+    hyphens: auto;
 }
 
 h1,
