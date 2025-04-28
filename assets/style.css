@@ -119,7 +119,6 @@ code {
 blockquote {
     color: var(--code-color);
     padding-left: 5 px;
-    padding-right: 5px;
     font-size: 0.95em;
 }
 
