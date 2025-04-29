@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: Souza Correa
+title: C. de Souza Correa
 description: Mais um blog
 # baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://souzacorrea.github.io" # the base hostname & protocol for your site
