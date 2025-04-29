@@ -81,7 +81,7 @@ main {
 }
 
 p {
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 
@@ -163,7 +163,7 @@ ul.blog-posts li {
 
 i time {
     font-style: normal;
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
 ul.blog-posts li span {
