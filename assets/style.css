@@ -126,7 +126,7 @@ footer {
     margin-top: 40px;
     border-top: 1px solid var(--main-color);
     padding: 25px 0;
-    text-align: center;
+    text-align: left;
 }
 
 footer > span:has(a[href="https://bearblog.dev"]) {
