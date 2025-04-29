@@ -1,13 +1,10 @@
-
-      
-      
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400..700;1,400..700&display=swap');
 
 :root {
     --width: 800px;
-    --font-main: "EB Garamond", serif;
-    --font-secondary: "EB Garamond", serif;
-    --font-scale: 1.2em;
+    --font-main: "Gelasio", serif;
+    --font-secondary: "Gelasio", serif;
+    --font-scale: 1em;
     --background-color: rgb(255, 255, 255);
     --heading-color: #242424; 
     --text-color: #242424; /* Darker espresso */
