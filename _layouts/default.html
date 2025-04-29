@@ -20,7 +20,6 @@ layout: compress
         {% for post in post_list %}
         {% unless post == previous %}
         <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         <span>
             <i>
                 <time datetime="2022-01-28" pubdate="">
@@ -28,6 +27,7 @@ layout: compress
                 </time>
             </i>
         </span>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endunless %}
         {% assign previous = post %}
