@@ -32,6 +32,13 @@ body {
     hyphens: auto;
 }
 
+
+@media only screen and (min-width: 768px) { /* Anything larger than a tablet */
+    body {
+     font-size: large; /* Increases every font size */
+    }
+}
+
 h1 {
     font-size: 1.4em;
     text-align: left;
