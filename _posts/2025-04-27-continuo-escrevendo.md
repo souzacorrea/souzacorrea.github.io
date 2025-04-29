@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Continuo escrevendo sem parar
-subtitle: Este é o subtítulo do post
+subtitle:
 date: 2025-04-27 18:45:00 +0000
 tags:
   - testedetag
