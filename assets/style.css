@@ -7,7 +7,7 @@
     --width: 800px;
     --font-main: "EB Garamond", serif;
     --font-secondary: "EB Garamond", serif;
-    --font-scale: 1.4em;
+    --font-scale: 1.3em;
     --background-color: rgb(255, 255, 255);
     --heading-color: #242424; 
     --text-color: #242424; /* Darker espresso */
@@ -116,8 +116,8 @@ code {
 
 blockquote {
     color: var(--code-color);
-    padding-left: 5 px;
-    font-size: 0.95em;
+    padding-left: 0px;
+    font-size: 0.93em;
 }
 
 header {
