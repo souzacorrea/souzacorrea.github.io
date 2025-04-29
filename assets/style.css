@@ -7,7 +7,7 @@
     --width: 800px;
     --font-main: "EB Garamond", serif;
     --font-secondary: "EB Garamond", serif;
-    --font-scale: 1.3em;
+    --font-scale: 1.2em;
     --background-color: rgb(255, 255, 255);
     --heading-color: #242424; 
     --text-color: #242424; /* Darker espresso */
@@ -92,7 +92,7 @@ main {
 }
 
 p {
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 
