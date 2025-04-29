@@ -173,7 +173,7 @@ ul.blog-posts {
 }
 
 ul.blog-posts li {
-    display: flex;
+    display: block;
     margin-bottom: 10px;
 }
 
