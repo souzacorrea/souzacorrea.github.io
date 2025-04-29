@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 :root {
     --width: 800px;
-    --font-main: "Gelasio", serif;
-    --font-secondary: "Gelasio", serif;
-    --font-scale: 1em;
+    --font-main: "Lato", sans-serif;
+    --font-secondary: "Lato", sans-serif;
+    --font-scale: 1.1em;
     --background-color: rgb(255, 255, 255);
     --heading-color: #242424; 
     --text-color: #242424; /* Darker espresso */
@@ -20,6 +20,7 @@ body {
     font-family: var(--font-secondary);
     font-size: var(--font-scale);
     margin: auto;
+    font-weight: 300;
     padding: 20px;
     max-width: var(--width);
     text-align: left;
