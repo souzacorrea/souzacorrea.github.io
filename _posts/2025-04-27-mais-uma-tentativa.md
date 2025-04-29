@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mais uma tentativa de escrever um blog
-subtitle: Experimentando com um subtítulo
+subtitle: 
 date: 2025-04-27 18:30:00 +0000
 tags:
 - testedetag
