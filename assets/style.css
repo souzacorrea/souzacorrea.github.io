@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
     --width: 700px;
-    --font-main: "Ubuntu", sans-serif;
-    --font-secondary: "Ubuntu", sans-serif;
+    --font-main: "Roboto", sans-serif;
+    --font-secondary: "Roboto", sans-serif;
     --font-scale: 1em;
     --background-color: rgb(255, 255, 248);
     --heading-color: #242424; 
@@ -35,7 +35,7 @@ body {
 
 @media only screen and (min-width: 768px) { /* Anything larger than a tablet */
     body {
-     font-size: large; /* Increases every font size */
+     font-size: normal; /* Increases every font size */
     }
 }
 
