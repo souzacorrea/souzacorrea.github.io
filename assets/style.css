@@ -4,7 +4,7 @@
     --width: 700px;
     --font-main: "Roboto", sans-serif;
     --font-secondary: "Roboto", sans-serif;
-    --font-scale: 1em;
+    --font-scale: 1.1em;
     --background-color: rgb(255, 255, 248);
     --heading-color: #242424; 
     --text-color: #242424; /* Darker espresso */
@@ -35,7 +35,7 @@ body {
 
 @media only screen and (min-width: 768px) { /* Anything larger than a tablet */
     body {
-     font-size: normal; /* Increases every font size */
+     font-size: large; /* Increases every font size */
     }
 }
 
