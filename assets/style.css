@@ -115,9 +115,10 @@ code {
 
 blockquote {
     color: var(--code-color);
-    padding-left: 10px;
+    padding-left: 20px;
     font-size: 0.95em;
     border-left: 1px solid var(--main-color);
+    margin: 1% auto;
 }
 
 header {
