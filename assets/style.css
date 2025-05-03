@@ -35,7 +35,7 @@ body {
 
 @media only screen and (min-width: 768px) { /* Anything larger than a tablet */
     body {
-     font-size: large; /* Increases every font size */
+     font-size: larger; /* Increases every font size */
     }
 }
 
@@ -116,7 +116,7 @@ code {
 blockquote {
     color: var(--code-color);
     padding-left: 20px;
-    font-size: 0.95em;
+    font-size: 0.99em;
     border-left: 1px solid var(--main-color);
     margin: 1% auto;
 }
