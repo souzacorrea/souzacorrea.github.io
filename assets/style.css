@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://use.typekit.net/bxa4zdr.css");
 
 :root {
     --width: 700px;
-    --font-main: "Roboto", sans-serif;
-    --font-secondary: "Roboto", sans-serif;
+    --font-main: "utopia-std", serif;
+    --font-secondary: "utopia-std", serif;
     --font-scale: 1.1em;
     --background-color: rgb(255, 255, 248);
     --heading-color: #242424; 
