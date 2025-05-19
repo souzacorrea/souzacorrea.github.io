@@ -4,7 +4,7 @@
     --width: 700px;
     --font-main: "EB Garamond", serif;
     --font-secondary: "EB Garamond", serif;
-    --font-scale: 1em;
+    --font-scale: 1.1em;
     --background-color: #fffff8;
     --heading-color: #242424; 
     --text-color: #111111; /* Darker espresso */
@@ -172,6 +172,7 @@ ul.blog-posts li {
 
 i time {
     font-style: normal;
+    font-size: smaller;
     opacity: 0.9;
 }
 
